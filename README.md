@@ -1,2 +1,2 @@
-# Heranca-e-polimorfismo
-Exercícios em Java para demonstrar e utilizar conceitos de programação orientada a objeto.
+# JAVA OOP
+Here are some exercises in JAVA to use and demonstrate concepts of object oriented programming.
